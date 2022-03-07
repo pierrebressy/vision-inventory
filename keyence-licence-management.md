@@ -1,6 +1,6 @@
 # Keyence licence management
 
-Link to ask for an activation code: https://www.keyence.eu/frfr/support/software-activation/xg-x/full/
+Lien pour demander un nouveau code d'activation: https://www.keyence.eu/frfr/support/software-activation/xg-x/full/
 
 | Owner             | Function    | DVD identifier | User ID  | Activation code                                                               | Used until | Note on the DVD |
 | ----------------- | ----------- | -------------- | -------- | ----------------------------------------------------------------------------- | ---------- | --------------- |
