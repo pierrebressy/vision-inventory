@@ -8,7 +8,7 @@ Les bouchons de protections sont dans les boites des objectifs.
 | -- | ----------------------------- | ----------------------------- | ------------------- |
 | 01 | J. Scheidegger (TB)           | J. Scheidegger (TB)           | J. Scheidegger (TB) |
 | 02 | FREE                          | NVBL (M. Geiser)              | FREE                |
-| 03 | FREE                          | LOST !                        | FREE                |
+| 03 | FREE                          | FREE                          | FREE                |
 | 04 | VIN                           | VIN                           | FREE                |
 | 05 | VIN                           | VIN                           | FREE                |
 | 06 | VIN                           | VIN                           | FREE                |
