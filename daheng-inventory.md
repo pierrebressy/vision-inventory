@@ -16,3 +16,4 @@ Les bouchons de protections sont dans les boites des objectifs.
 | 08 | FREE                          | FREE                          | FREE                |
 | 09 | FREE                          | FREE                          | FREE                |
 | 10 | Le Boss (P. Bressy)           | Le Boss (P. Bressy)           | FREE                |
+| 11 | J. Scheidegger (TB)           | J. Scheidegger (TB)           | J. Scheidegger (TB) |
